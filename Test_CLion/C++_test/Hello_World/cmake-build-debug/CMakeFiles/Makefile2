@@ -44,21 +44,21 @@ RM = /opt/clion-2019.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion
+CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Hello_World
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/cmake-build-debug
+CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Hello_World/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Test_CLion.dir/all
+all: CMakeFiles/Hello_World.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/Test_CLion.dir/clean
+clean: CMakeFiles/Hello_World.dir/clean
 
 .PHONY : clean
 
@@ -68,31 +68,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/Test_CLion.dir
+# Target rules for target CMakeFiles/Hello_World.dir
 
 # All Build rule for target.
-CMakeFiles/Test_CLion.dir/all:
-	$(MAKE) -f CMakeFiles/Test_CLion.dir/build.make CMakeFiles/Test_CLion.dir/depend
-	$(MAKE) -f CMakeFiles/Test_CLion.dir/build.make CMakeFiles/Test_CLion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/andrea/Mytest_GitHub/Test_CLion/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Test_CLion"
-.PHONY : CMakeFiles/Test_CLion.dir/all
+CMakeFiles/Hello_World.dir/all:
+	$(MAKE) -f CMakeFiles/Hello_World.dir/build.make CMakeFiles/Hello_World.dir/depend
+	$(MAKE) -f CMakeFiles/Hello_World.dir/build.make CMakeFiles/Hello_World.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/andrea/Mytest_GitHub/Test_CLion/C++_test/Hello_World/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Hello_World"
+.PHONY : CMakeFiles/Hello_World.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Test_CLion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Test_CLion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Test_CLion.dir/rule
+CMakeFiles/Hello_World.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Hello_World/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Hello_World.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Hello_World/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Hello_World.dir/rule
 
 # Convenience name for target.
-Test_CLion: CMakeFiles/Test_CLion.dir/rule
+Hello_World: CMakeFiles/Hello_World.dir/rule
 
-.PHONY : Test_CLion
+.PHONY : Hello_World
 
 # clean rule for target.
-CMakeFiles/Test_CLion.dir/clean:
-	$(MAKE) -f CMakeFiles/Test_CLion.dir/build.make CMakeFiles/Test_CLion.dir/clean
-.PHONY : CMakeFiles/Test_CLion.dir/clean
+CMakeFiles/Hello_World.dir/clean:
+	$(MAKE) -f CMakeFiles/Hello_World.dir/build.make CMakeFiles/Hello_World.dir/clean
+.PHONY : CMakeFiles/Hello_World.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
