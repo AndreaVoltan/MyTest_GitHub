@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HelloWorld_2branch" targetName="HelloWorld_2branch" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef922b1-0b96-4719-9cb8-a02fc1100674" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1au2somFtyyq13JA5AMnvVOCfCd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef922b1-0b96-4719-9cb8-a02fc1100674" name="Default Changelist" comment="" />
+      <created>1587571367906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587571367906</updated>
+      <workItem from="1587571369040" duration="353000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test_Clion folder and First HelloWorld from the testing branch!">
+      <created>1587571602440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587571602440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test_Clion folder and First HelloWorld from the testing branch!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test_Clion folder and First HelloWorld from the testing branch!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="109" width="916" height="890" key="CommitChangelistDialog2" timestamp="1587571602348">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="533" y="109" width="916" height="890" key="CommitChangelistDialog2/67.27.1853.1052@67.27.1853.1052" timestamp="1587571602348" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587571443507">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587571443507" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587571443507">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587571443507" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587571443506">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587571443506" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587571443507">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587571443507" />
+    <state x="591" y="288" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1587571660006">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="591" y="288" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1052@67.27.1853.1052" timestamp="1587571660006" />
+    <state x="767" y="467" width="452" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587571621659">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="767" y="467" width="452" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1052@67.27.1853.1052" timestamp="1587571621659" />
+  </component>
+</project>
