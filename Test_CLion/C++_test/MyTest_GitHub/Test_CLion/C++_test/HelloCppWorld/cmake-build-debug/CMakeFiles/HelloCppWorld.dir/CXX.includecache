@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/main.cpp
+iostream
+-
+
