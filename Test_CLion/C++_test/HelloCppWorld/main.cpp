@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "Hello World! This is C++" << std::endl;
-    std::cout << "Some modification I want to share on my GitHub!" << std::endl;
-    return 0;
+    std::cout << "Compare HelloCpp in Git and your laptop and see if there are equal." << std::endl;
+    return 0
 }
