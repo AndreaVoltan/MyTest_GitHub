@@ -1,5 +1,0 @@
-Text file in python test folder.
-
-In Clion you can't start a Python project or open an empty Python file.
-The only way is to work on a C++ project and add to it the Python scripts I want.
-This because Clion is a C++ IDE. 
