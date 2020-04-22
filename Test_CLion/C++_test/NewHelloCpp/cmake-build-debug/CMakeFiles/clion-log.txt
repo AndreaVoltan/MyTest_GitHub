@@ -1,4 +1,4 @@
-/home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld
+/home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp
 -- The C compiler identification is GNU 7.5.0
 -- The CXX compiler identification is GNU 7.5.0
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug
+-- Build files have been written to: /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug

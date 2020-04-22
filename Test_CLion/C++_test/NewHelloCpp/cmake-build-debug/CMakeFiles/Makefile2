@@ -44,16 +44,16 @@ RM = /home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld
+CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug
+CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/HelloCppWorld.dir/all
+all: CMakeFiles/NewHelloCpp.dir/all
 
 .PHONY : all
 
@@ -63,36 +63,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/HelloCppWorld.dir/clean
+clean: CMakeFiles/NewHelloCpp.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/HelloCppWorld.dir
+# Target rules for target CMakeFiles/NewHelloCpp.dir
 
 # All Build rule for target.
-CMakeFiles/HelloCppWorld.dir/all:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/depend
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target HelloCppWorld"
-.PHONY : CMakeFiles/HelloCppWorld.dir/all
+CMakeFiles/NewHelloCpp.dir/all:
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/depend
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target NewHelloCpp"
+.PHONY : CMakeFiles/NewHelloCpp.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/HelloCppWorld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HelloCppWorld.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/HelloCppWorld.dir/rule
+CMakeFiles/NewHelloCpp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/NewHelloCpp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/NewHelloCpp.dir/rule
 
 # Convenience name for target.
-HelloCppWorld: CMakeFiles/HelloCppWorld.dir/rule
+NewHelloCpp: CMakeFiles/NewHelloCpp.dir/rule
 
-.PHONY : HelloCppWorld
+.PHONY : NewHelloCpp
 
 # clean rule for target.
-CMakeFiles/HelloCppWorld.dir/clean:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/clean
-.PHONY : CMakeFiles/HelloCppWorld.dir/clean
+CMakeFiles/NewHelloCpp.dir/clean:
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/clean
+.PHONY : CMakeFiles/NewHelloCpp.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -1,4 +1,4 @@
-# Install script for directory: /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld
+# Install script for directory: /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

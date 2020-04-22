@@ -48,24 +48,13 @@ RM = /home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld
+CMAKE_SOURCE_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug
+CMAKE_BINARY_DIR = /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
-
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
 
 # Special rule for the target edit_cache
 edit_cache:
@@ -78,11 +67,22 @@ edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
 
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
+
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/MyTest_GitHub/Test_CLion/C++_test/HelloCppWorld/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrea/Mytest_GitHub/Test_CLion/C++_test/NewHelloCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named HelloCppWorld
+# Target rules for targets named NewHelloCpp
 
 # Build rule for target.
-HelloCppWorld: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 HelloCppWorld
-.PHONY : HelloCppWorld
+NewHelloCpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 NewHelloCpp
+.PHONY : NewHelloCpp
 
 # fast build rule for target.
-HelloCppWorld/fast:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/build
-.PHONY : HelloCppWorld/fast
+NewHelloCpp/fast:
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/build
+.PHONY : NewHelloCpp/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/HelloCppWorld.dir/build.make CMakeFiles/HelloCppWorld.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/NewHelloCpp.dir/build.make CMakeFiles/NewHelloCpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -156,9 +156,9 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... HelloCppWorld"
+	@echo "... rebuild_cache"
+	@echo "... NewHelloCpp"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
