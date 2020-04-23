@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Cpp to share. Initialized on the Testing Branch. Now available also on Master Branch!" << std::endl;
+    std::cout << "Cpp to share. On master." << std::endl;
     return 0;
 }

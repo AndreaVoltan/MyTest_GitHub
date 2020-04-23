@@ -29,10 +29,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd378aaf-7078-4494-89e7-7a998664fbc0" name="Default Changelist" comment="">
+    <list default="true" id="dd378aaf-7078-4494-89e7-7a998664fbc0" name="Default Changelist" comment="Merge branch 'testing'&#10;&#10;# Conflicts:&#10;#&#9;Test_CLion/C++_test/Cpp2share/main.cpp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +71,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="687" y="354" width="609" height="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587652468875">
+    <state x="687" y="342" width="608" height="440" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587652628956">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="687" y="354" width="609" height="400" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1587652468875" />
+    <state x="687" y="342" width="608" height="440" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1587652628956" />
+    <state x="514" y="58" width="954" height="992" key="CommitChangelistDialog2" timestamp="1587652548964">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="514" y="58" width="954" height="992" key="CommitChangelistDialog2/67.27.1853.1052@67.27.1853.1052" timestamp="1587652548964" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587652352648">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -95,9 +99,9 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="434" y="204" width="1482" height="875" key="MergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587652016206" />
-    <state x="870" y="415" width="901" height="459" key="MultipleFileMergeDialog" timestamp="1587652027744">
+    <state x="870" y="403" width="901" height="459" key="MultipleFileMergeDialog" timestamp="1587652581054">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="870" y="415" width="901" height="459" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587652027744" />
+    <state x="870" y="403" width="901" height="459" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587652581054" />
   </component>
 </project>
