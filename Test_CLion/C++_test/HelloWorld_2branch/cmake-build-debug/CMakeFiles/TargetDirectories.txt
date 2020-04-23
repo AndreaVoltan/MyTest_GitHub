@@ -1,0 +1,4 @@
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch/cmake-build-debug/CMakeFiles/HelloWorld_2branch_calc.dir
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch/cmake-build-debug/CMakeFiles/HelloWorld_2branch.dir

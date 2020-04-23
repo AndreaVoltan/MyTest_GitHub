@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Week2" targetName="Week2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89d15e5e-cb8f-44be-bc2e-7703b7faa3cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aqx4SF9AuQ3XMmrdsf11fechVg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/C++_test/Week2/CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/C++_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CMakeRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Week2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week2" TARGET_NAME="Week2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week2" RUN_TARGET_NAME="Week2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d15e5e-cb8f-44be-bc2e-7703b7faa3cd" name="Default Changelist" comment="" />
+      <created>1587476733793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587476733793</updated>
+      <workItem from="1587476734903" duration="2113000" />
+      <workItem from="1587559371889" duration="910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587560222485">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="689" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587560222485" />
+    <state x="1242" y="304" width="424" height="488" key="FileChooserDialogImpl" timestamp="1587559832727">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="1242" y="304" width="424" height="488" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1587559832727" />
+    <state width="1393" height="367" key="GridCell.Tab.0.bottom" timestamp="1587560293006">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1393" height="367" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587560293006" />
+    <state width="1393" height="367" key="GridCell.Tab.0.center" timestamp="1587560293003">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1393" height="367" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587560293003" />
+    <state width="1393" height="367" key="GridCell.Tab.0.left" timestamp="1587560293002">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1393" height="367" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587560293002" />
+    <state width="1393" height="367" key="GridCell.Tab.0.right" timestamp="1587560293005">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1393" height="367" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587560293005" />
+    <state x="904" y="169" width="1016" height="734" key="SettingsEditor" timestamp="1587559532214">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="904" y="169" width="1016" height="734" key="SettingsEditor/67.27.1853.1052@67.27.1853.1052" timestamp="1587559532214" />
+  </component>
+</project>
