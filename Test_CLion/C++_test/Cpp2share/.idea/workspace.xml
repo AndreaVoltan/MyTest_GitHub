@@ -29,7 +29,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="726d9050-2ef7-418a-bb1c-e992171e977f" name="Default Changelist" comment="" />
+    <list default="true" id="726d9050-2ef7-418a-bb1c-e992171e977f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../readme_onTesting" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme_onTesting" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +90,13 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="903" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002919" />
-    <state x="434" y="21" width="1482" height="875" key="MergeDialog" timestamp="1587655291181">
+    <state x="434" y="21" width="1482" height="875" key="MergeDialog" timestamp="1587656514078">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="434" y="21" width="1482" height="875" key="MergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587655291181" />
-    <state x="788" y="285" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587655291182">
+    <state x="434" y="21" width="1482" height="875" key="MergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587656514078" />
+    <state x="788" y="279" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587656514083">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="788" y="285" width="898" height="268" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587655291182" />
+    <state x="788" y="279" width="898" height="268" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587656514083" />
   </component>
 </project>
