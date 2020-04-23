@@ -29,11 +29,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd378aaf-7078-4494-89e7-7a998664fbc0" name="Default Changelist" comment="Merge branch 'testing'&#10;&#10;# Conflicts:&#10;#&#9;Test_CLion/C++_test/Cpp2share/main.cpp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" afterDir="false" />
-    </list>
+    <list default="true" id="dd378aaf-7078-4494-89e7-7a998664fbc0" name="Default Changelist" comment="Merge branch 'testing'&#10;&#10;# Conflicts:&#10;#&#9;Test_CLion/C++_test/Cpp2share/main.cpp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
