@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Cpp2share" targetName="Cpp2share" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -27,11 +29,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd378aaf-7078-4494-89e7-7a998664fbc0" name="Default Changelist" comment="" />
+    <list default="true" id="726d9050-2ef7-418a-bb1c-e992171e977f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../readme_onTesting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -52,5 +60,27 @@
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="903" height="278" key="GridCell.Tab.0.bottom" timestamp="1587654002920">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="903" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002920" />
+    <state width="903" height="278" key="GridCell.Tab.0.center" timestamp="1587654002919">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="903" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002919" />
+    <state width="903" height="278" key="GridCell.Tab.0.left" timestamp="1587654002919">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="903" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002919" />
+    <state width="903" height="278" key="GridCell.Tab.0.right" timestamp="1587654002919">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="903" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002919" />
+    <state x="788" y="303" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587654161206">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="788" y="303" width="898" height="268" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587654161206" />
   </component>
 </project>
