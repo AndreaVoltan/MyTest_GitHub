@@ -1,4 +1,0 @@
-/home/andrea/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch
--- Configuring done
--- Generating done
--- Build files have been written to: /home/andrea/Mytest_GitHub/Test_CLion/C++_test/HelloWorld_2branch/cmake-build-debug
