@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/HelloWorld_2branch_calc.dir/calc.cpp.o  -o HelloWorld_2branch_calc 
