@@ -12,11 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="072e376e-88f2-4c2a-a859-60e27a3fbf10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../HelloCppWorld/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld_2branch/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHelloCpp.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHelloCpp.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/NewHelloCpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/NewHelloCpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -62,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587569195021</updated>
       <workItem from="1587569196154" duration="1252000" />
-      <workItem from="1587631911554" duration="372000" />
+      <workItem from="1587631911554" duration="689000" />
     </task>
     <task id="LOCAL-00001" summary="First editing of New Hello World">
       <created>1587571025467</created>
@@ -102,22 +99,26 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="167" y="115" width="1653" height="858" key="DiffContextDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587571162633" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587569212654">
+    <state x="779" y="310" width="424" height="488" key="FileChooserDialogImpl" timestamp="1587632512873">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587569212654" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587569212652">
+    <state x="779" y="310" width="424" height="488" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1587632512873" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587632225712">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587569212652" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587569212650">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587632225712" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587632225710">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587569212650" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587569212653">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587632225710" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587632225709">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587569212653" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587632225709" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587632225711">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587632225711" />
     <state x="591" y="288" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1587571082520">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
