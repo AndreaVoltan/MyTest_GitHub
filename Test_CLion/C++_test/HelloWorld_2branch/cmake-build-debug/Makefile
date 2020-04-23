@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named HelloWorld_2branch_calc
+
+# Build rule for target.
+HelloWorld_2branch_calc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 HelloWorld_2branch_calc
+.PHONY : HelloWorld_2branch_calc
+
+# fast build rule for target.
+HelloWorld_2branch_calc/fast:
+	$(MAKE) -f CMakeFiles/HelloWorld_2branch_calc.dir/build.make CMakeFiles/HelloWorld_2branch_calc.dir/build
+.PHONY : HelloWorld_2branch_calc/fast
+
+#=============================================================================
 # Target rules for targets named HelloWorld_2branch
 
 # Build rule for target.
@@ -122,6 +135,33 @@ HelloWorld_2branch: cmake_check_build_system
 HelloWorld_2branch/fast:
 	$(MAKE) -f CMakeFiles/HelloWorld_2branch.dir/build.make CMakeFiles/HelloWorld_2branch.dir/build
 .PHONY : HelloWorld_2branch/fast
+
+calc.o: calc.cpp.o
+
+.PHONY : calc.o
+
+# target to build an object file
+calc.cpp.o:
+	$(MAKE) -f CMakeFiles/HelloWorld_2branch_calc.dir/build.make CMakeFiles/HelloWorld_2branch_calc.dir/calc.cpp.o
+.PHONY : calc.cpp.o
+
+calc.i: calc.cpp.i
+
+.PHONY : calc.i
+
+# target to preprocess a source file
+calc.cpp.i:
+	$(MAKE) -f CMakeFiles/HelloWorld_2branch_calc.dir/build.make CMakeFiles/HelloWorld_2branch_calc.dir/calc.cpp.i
+.PHONY : calc.cpp.i
+
+calc.s: calc.cpp.s
+
+.PHONY : calc.s
+
+# target to generate assembly for a file
+calc.cpp.s:
+	$(MAKE) -f CMakeFiles/HelloWorld_2branch_calc.dir/build.make CMakeFiles/HelloWorld_2branch_calc.dir/calc.cpp.s
+.PHONY : calc.cpp.s
 
 main.o: main.cpp.o
 
@@ -158,7 +198,11 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... HelloWorld_2branch_calc"
 	@echo "... HelloWorld_2branch"
+	@echo "... calc.o"
+	@echo "... calc.i"
+	@echo "... calc.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

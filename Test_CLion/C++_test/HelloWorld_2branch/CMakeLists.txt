@@ -4,3 +4,4 @@ project(HelloWorld_2branch)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(HelloWorld_2branch main.cpp)
+add_executable(HelloWorld_2branch_calc calc.cpp)
