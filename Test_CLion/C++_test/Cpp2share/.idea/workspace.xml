@@ -29,8 +29,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="726d9050-2ef7-418a-bb1c-e992171e977f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../readme_onTesting" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme_onTesting" afterDir="false" />
+    <list default="true" id="3802d1ac-fd4d-486e-a588-96237f516755" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +41,8 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="ProjectId" id="1ayf5BSH1ayS3C580sxzEEWIR81" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="Cpp2share" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp2share" TARGET_NAME="Cpp2share" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp2share" RUN_TARGET_NAME="Cpp2share">
@@ -66,36 +55,12 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="726d9050-2ef7-418a-bb1c-e992171e977f" name="Default Changelist" comment="" />
-      <created>1587712569178</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1587712569178</updated>
-      <workItem from="1587712571754" duration="348000" />
-    </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="115" width="1653" height="858" key="DiffContextDialog" timestamp="1587655564337">
-      <screen x="67" y="27" width="1853" height="1052" />
-    </state>
-    <state x="167" y="115" width="1653" height="858" key="DiffContextDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587655564337" />
     <state width="903" height="278" key="GridCell.Tab.0.bottom" timestamp="1587654002920">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -112,13 +77,9 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="903" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587654002919" />
-    <state x="434" y="21" width="1482" height="875" key="MergeDialog" timestamp="1587656514078">
+    <state x="788" y="303" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587654161206">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="434" y="21" width="1482" height="875" key="MergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587656514078" />
-    <state x="788" y="279" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587656514083">
-      <screen x="67" y="27" width="1853" height="1052" />
-    </state>
-    <state x="788" y="279" width="898" height="268" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587656514083" />
+    <state x="788" y="303" width="898" height="268" key="MultipleFileMergeDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587654161206" />
   </component>
 </project>
