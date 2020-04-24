@@ -1,3 +1,4 @@
 /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Cpp2share/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Cpp2share/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrea/Mytest_GitHub/Test_CLion/C++_test/Cpp2share/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir
 /home/andrea/Mytest_GitHub/Test_CLion/C++_test/Cpp2share/cmake-build-debug/CMakeFiles/Cpp2share.dir

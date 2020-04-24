@@ -20,18 +20,38 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="Cpp2share" targetName="Cpp2share_calc" />
       <config projectName="Cpp2share" targetName="Cpp2share" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3802d1ac-fd4d-486e-a588-96237f516755" name="Default Changelist" comment="">
+    <list default="true" id="1f14fe62-9f9f-4137-bb90-e519989b9e91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/calc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/calc.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share_calc.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp2share.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp2share" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp2share.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp2share.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +65,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Cpp2share_calc">
     <configuration name="Cpp2share" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp2share" TARGET_NAME="Cpp2share" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp2share" RUN_TARGET_NAME="Cpp2share">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cpp2share_calc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp2share" TARGET_NAME="Cpp2share_calc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp2share" RUN_TARGET_NAME="Cpp2share_calc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Cpp2share" />
+      <item itemvalue="CMake Application.Cpp2share_calc" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,26 +94,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="295" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587714232189">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587715141786">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="729" y="295" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587714232189" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587714457941">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587715141786" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587715141785">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587714457941" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587714457939">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587715141785" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587715141784">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587714457939" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587714457937">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587715141784" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587715141785">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587714457937" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587714457940">
-      <screen x="67" y="27" width="1853" height="1052" />
-    </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587714457940" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587715141785" />
     <state x="788" y="303" width="898" height="268" key="MultipleFileMergeDialog" timestamp="1587654161206">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>

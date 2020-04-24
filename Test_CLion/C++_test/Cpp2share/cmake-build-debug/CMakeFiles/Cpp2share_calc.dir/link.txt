@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cpp2share_calc.dir/calc.cpp.o  -o Cpp2share_calc 

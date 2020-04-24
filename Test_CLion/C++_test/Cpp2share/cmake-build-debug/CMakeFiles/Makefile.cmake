@@ -48,5 +48,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/Cpp2share_calc.dir/DependInfo.cmake"
   "CMakeFiles/Cpp2share.dir/DependInfo.cmake"
   )

@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Cpp2share_calc
+
+# Build rule for target.
+Cpp2share_calc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Cpp2share_calc
+.PHONY : Cpp2share_calc
+
+# fast build rule for target.
+Cpp2share_calc/fast:
+	$(MAKE) -f CMakeFiles/Cpp2share_calc.dir/build.make CMakeFiles/Cpp2share_calc.dir/build
+.PHONY : Cpp2share_calc/fast
+
+#=============================================================================
 # Target rules for targets named Cpp2share
 
 # Build rule for target.
@@ -122,6 +135,33 @@ Cpp2share: cmake_check_build_system
 Cpp2share/fast:
 	$(MAKE) -f CMakeFiles/Cpp2share.dir/build.make CMakeFiles/Cpp2share.dir/build
 .PHONY : Cpp2share/fast
+
+calc.o: calc.cpp.o
+
+.PHONY : calc.o
+
+# target to build an object file
+calc.cpp.o:
+	$(MAKE) -f CMakeFiles/Cpp2share_calc.dir/build.make CMakeFiles/Cpp2share_calc.dir/calc.cpp.o
+.PHONY : calc.cpp.o
+
+calc.i: calc.cpp.i
+
+.PHONY : calc.i
+
+# target to preprocess a source file
+calc.cpp.i:
+	$(MAKE) -f CMakeFiles/Cpp2share_calc.dir/build.make CMakeFiles/Cpp2share_calc.dir/calc.cpp.i
+.PHONY : calc.cpp.i
+
+calc.s: calc.cpp.s
+
+.PHONY : calc.s
+
+# target to generate assembly for a file
+calc.cpp.s:
+	$(MAKE) -f CMakeFiles/Cpp2share_calc.dir/build.make CMakeFiles/Cpp2share_calc.dir/calc.cpp.s
+.PHONY : calc.cpp.s
 
 main.o: main.cpp.o
 
@@ -158,7 +198,11 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... Cpp2share_calc"
 	@echo "... Cpp2share"
+	@echo "... calc.o"
+	@echo "... calc.i"
+	@echo "... calc.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
